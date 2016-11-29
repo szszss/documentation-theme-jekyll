@@ -4,6 +4,6 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      external_url: http://openshader.org
+      url: http://openshader.org
     - title: Documentation
-      url: /mydoc_introduction.html
+      url: /

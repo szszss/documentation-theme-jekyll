@@ -7,7 +7,7 @@ entries:
   folders:
 
   - title: Overview
-    output: web
+    output: web, pdf
     folderitems:
 
     - title: Get started
